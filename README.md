@@ -1,2 +1,2 @@
 # ckeditor-plugins
-Plugins for CKeditor created by GWO 2015-2016
+Monorepo for CKeditor plugins created by GWO
